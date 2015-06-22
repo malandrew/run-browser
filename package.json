@@ -6,7 +6,7 @@
   "keywords": [],
   "dependencies": {
     "browserify": "^3.28.0",
-    "browserify-babel-istanbul": "^0.1.2",
+    "browserify-babel-istanbul": "^0.2.1",
     "function-bind": "^1.0.2",
     "glob": "~3.2.7",
     "global": "^4.3.0",
